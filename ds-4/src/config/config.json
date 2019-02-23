@@ -1,0 +1,6 @@
+{
+ "frontendUrl": "http://127.0.0.1",
+ "frontendPort": "5001",
+ "backendUrl": "http://127.0.0.1",
+ "backendPort": "5000"
+}
